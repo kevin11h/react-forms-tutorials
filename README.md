@@ -7,6 +7,10 @@
 + https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y
 + https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a
 
+# Library Implementations
++  https://jaredpalmer.com/formik/docs/overview
++  https://react-form.js.org/#/
+
 # Questions
 
 + What are good parts of React front-to-back API documentation?
