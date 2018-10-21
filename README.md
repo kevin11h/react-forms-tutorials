@@ -17,3 +17,14 @@
 + How do I request or submit forms from front end to back end with React?
 + How does React work on mobile platform?
 + How to use React templates to display back-end responses?
+
+# Possible Answers
+
++ 
++ "You have to handle forms yourself in React. "  Name, value pairs for React javascript object instances
+Event variable, target,name handlers, input type submits, standard DOM Forms
+
+React renders the HTML and gives value to variables
+
++ https://facebook.github.io/react-native  Use javascript to create mobile apps (real estate react app tutorial https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript)
++ 
